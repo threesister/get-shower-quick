@@ -1,0 +1,18 @@
+.myborder {
+  border:2px solid #24248f;
+}
+
+.footer-site{
+   background-color: #000000;
+   background-image: url(http://www.nasa.gov/centers/goddard/images/content/638831main_globe_east_2048.jpgpg); 
+   background-position: 100% 100%;
+   background-repeat: no-repeat;
+}
+
+.header-site{
+   background-color: rgb(214, 245, 245);
+   background-image: url("https://d1f2yo4rht0zy2.cloudfront.net/wp-content/uploads/2017/03/shower.jpeg"); 
+   background-position: 100% 100%;
+   background-repeat: no-repeat;
+}
+rgb(45, 177, 210)rgb(45, 177, 210)
